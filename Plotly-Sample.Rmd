@@ -1,7 +1,7 @@
 ---
 title: "European Stock Indices (1991-1998)"
-author: "Yash Kumar Singh"
-date: "September 2, 2017"
+author: "Yuvasri Raghavan"
+date: "May 2020"
 output: ioslides_presentation
 ---
 
